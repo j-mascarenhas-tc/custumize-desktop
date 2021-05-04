@@ -60,4 +60,4 @@ Close and open terminal and answer the questions
 
 `sudo apt install tmux`
 
-Copy tmux/.tmux.conf to ~./tmux.conf
+Copy tmux/.tmux.conf to ~/.tmux.conf
